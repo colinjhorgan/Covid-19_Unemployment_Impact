@@ -1,0 +1,8 @@
+Covid-19 Cases/Deaths National and by State:
+https://github.com/nytimes/covid-19-data
+
+
+Unemployment Data:
+https://www.bls.gov/web/laus/ststdsadata.zip
+
+
